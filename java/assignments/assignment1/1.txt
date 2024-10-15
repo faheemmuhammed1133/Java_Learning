@@ -1,0 +1,27 @@
+1.WAP to demonstrate implicit type conversion and explicit type conversion.
+2. WAP to find whether the inputted number is even or odd.
+3. WAP to find greater among two numbers using conditional operator.
+4. WAP to find greatest among three numbers using if else.
+5. WAP to find sum and average of numbers from 1 to 10.
+6. Write a program that prompts the user to input a positive integer. It should then print the
+multiplication table of that number.
+7. WAP to find greatest among three numbers using conditional operator.
+8. WAP to print odd numbers between 1 to 20.
+9. WAP to find whether a number is prime or not.
+10. Write a Java Program find out Students Grades using Switch Case
+
+11. WAP to check whether the inputted character is Vowel or Consonant.
+12. WAP to check whether the inputted number is Armstrong Number or not. (Hint:
+An Armstrong number is a positive m-digit number that is equal to the sum of the mth powers
+of their digits. It is also known as pluperfect, or Plus Perfect, or Narcissistic number.
+153: 13 + 53 + 33 = 1 + 125+ 27 = 153 (An Armstrong Number),
+125: 13 + 23 + 53 = 1 + 8 + 125 = 134 (Not an Armstrong Number)
+Hint: use Math.pow(num1, num2) to calculate power
+13. Write a program that generates a random number between 1 to 100 and asks the user to guess
+what the number is. If the user's guess is higher than the random number, the program should
+display "Too high, try again." If the user's guess is lower than the random number, the program
+should display "Too low, try again." The program should use a loop that repeats until the user
+correctly guesses the random number (Hint: use Math.random() for generating random number.
+Eg. number = (int) (Math.random() * 100) + 1;).
+14. WAP to find average of consecutive N Odd numbers and even numbers.
+15. WAP to reverse a positive number.
