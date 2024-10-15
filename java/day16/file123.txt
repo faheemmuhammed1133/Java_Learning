@@ -1,0 +1,7 @@
+-> Create a file123 on desktop you have to check properties through java prog 
+   you have to create another file456.txt using create new method then you have to 
+   create a dir with method mkdir then to create dir dir1 and dir2/subdir1 which 
+   is present in dir2 and to rename file 456.txt to file 654.txt
+-> and in subdir1 file11.txt and file22.txt and to find all the files and 
+   subdirectory in dir2 using list method
+-> print length of file123.txt
